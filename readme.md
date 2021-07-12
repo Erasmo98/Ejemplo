@@ -1,1 +1,1 @@
-Este es un respositorio de ejemplo.
+Este es un respositorio de ejemplo. Para el taller de la escuela de verano.
